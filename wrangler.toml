@@ -1,4 +1,4 @@
-name = "__WORKER_NAME__"
+name = "subpool-worker"
 main = "src/index.js"
 compatibility_date = "2025-11-02"
 
